@@ -19,7 +19,7 @@ Los campos son:
 ## GRAFICO 1 - OCUPACION
 
 **Canal de magnitud:**
-- Utilizamos los puntos para demostrar que ocupacion es más popular entre los países.
+- Utilizamos los puntos para demostrar qué ocupacion es más popular entre los países.
 
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar las distintas ocupaciones.
