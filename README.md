@@ -34,8 +34,8 @@ Los campos son:
 - Utilizamos los distintos colores como atributo categorico para diferenciar los distintos paises.
 
 **Justificación de diseño:**
--En este grafico de barras, los colores ayudan a las personas a identificar que cada columna es un país diferente. Las barras nos ayudan a ver la cantidad de astronautas que hay en cada país, ya que tenemos la grilla.
--También decidimos poner los numeros de las cantidades sobre las barras ya que es una manera más directa de demostrar a cuantas personas esta representando dicha barra.
+- En este grafico de barras, los colores ayudan a las personas a identificar que cada columna es un país diferente. Las barras nos ayudan a ver la cantidad de astronautas que hay en cada país, ya que tenemos la grilla.
+- También decidimos poner los numeros de las cantidades sobre las barras ya que es una manera más directa de demostrar a cuantas personas esta representando dicha barra.
 
 ## GRAFICO 3 - GENERO Y NACIMIENTO
 
