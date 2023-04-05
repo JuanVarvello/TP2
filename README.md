@@ -49,3 +49,7 @@ Los campos son:
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar los generos de los distintos astronautas, femenino o masculino.
 - Ademas, utilizamos remarcos o frames como atributo categorico para diferenciar distintos paises.
+
+**Justificación de diseño**
+- Decidimos optar por un gráfico de barras ya que transmite de una manera muy simple toda la información. Por un lado se puede ver la diferencia entre la cantidad de hombres y mujeres en cada país, y por el otro lado, se asegura de que podamos ver la magnitud de la cantidad de personas, ya que tenemos una grilla que nos marca la cantidad de personas.
+- Nuestra otra decisión de diseño fue poner cada país en recuedros separados. Esto ayuda a que se entienda mejor que hay diferentes barras de femenino y masculino para cada país.
