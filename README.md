@@ -24,6 +24,9 @@ Los campos son:
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar las distintas ocupaciones.
 
+**Justificación de diseño:**
+- Con este gráfico de puntos quisimos mostrar como se dispersan las ocupaciones en los distintos paises. Se puede ver claramente las ocupaciones que adoptan las personas de cada país
+
 ## GRAFICO 2 - PAIS
 
 **Canal de magnitud:**
