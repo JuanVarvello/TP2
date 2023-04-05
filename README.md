@@ -33,6 +33,10 @@ Los campos son:
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar los distintos paises.
 
+**Justificación de diseño:**
+-En este grafico de barras, los colores ayudan a las personas a identificar que cada columna es un país diferente. Las barras nos ayudan a ver la cantidad de astronautas que hay en cada país, ya que tenemos la grilla.
+-También decidimos poner los numeros de las cantidades sobre las barras ya que es una manera más directa de demostrar a cuantas personas esta representando dicha barra.
+
 ## GRAFICO 3 - GENERO Y NACIMIENTO
 
 **Canal de magnitud:**
@@ -54,5 +58,5 @@ Los campos son:
 - Ademas, utilizamos remarcos o frames como atributo categorico para diferenciar distintos paises.
 
 **Justificación de diseño:**
-- Decidimos optar por un gráfico de barras ya que transmite de una manera muy simple toda la información. Por un lado se puede ver la diferencia entre la cantidad de hombres y mujeres en cada país, y por el otro lado, se asegura de que podamos ver la magnitud de la cantidad de personas, ya que tenemos una grilla que nos marca la cantidad de personas.
+- En esta ocasión, otra vez, decidimos optar por un gráfico de barras ya que transmite de una manera muy simple toda la información. Por un lado se puede ver la diferencia entre la cantidad de hombres y mujeres en cada país, y por el otro lado, se asegura de que podamos ver la magnitud de la cantidad de personas, ya que tenemos una grilla que nos marca la cantidad de personas.
 - Nuestra otra decisión de diseño fue poner cada país en recuadros separados. Esto ayuda a que se entienda mejor que hay diferentes barras de femenino y masculino para cada país.
