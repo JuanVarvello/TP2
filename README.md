@@ -41,6 +41,9 @@ Los campos son:
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar los generos de los distintos astronautas, femenino o masculino.
 
+**Justificación de diseño:**
+- En esta ocación nos decidimos por un histograma con diferencia de colores en las barras ya que nos pareció una muy buena opcion para demostrar las cantidades de hombres y mujeres en cada año y cuándo empezaron a aparecer la mujeres en el mundo aeroespacial. Los colores hacen que la persona detecte más facilmente estas diferencias.
+
 ## GRAFICO 4 - GENERO Y PAIS
 
 **Canal de magnitud:**
@@ -52,4 +55,4 @@ Los campos son:
 
 **Justificación de diseño:**
 - Decidimos optar por un gráfico de barras ya que transmite de una manera muy simple toda la información. Por un lado se puede ver la diferencia entre la cantidad de hombres y mujeres en cada país, y por el otro lado, se asegura de que podamos ver la magnitud de la cantidad de personas, ya que tenemos una grilla que nos marca la cantidad de personas.
-- Nuestra otra decisión de diseño fue poner cada país en recuedros separados. Esto ayuda a que se entienda mejor que hay diferentes barras de femenino y masculino para cada país.
+- Nuestra otra decisión de diseño fue poner cada país en recuadros separados. Esto ayuda a que se entienda mejor que hay diferentes barras de femenino y masculino para cada país.
