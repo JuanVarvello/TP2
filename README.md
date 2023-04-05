@@ -19,7 +19,7 @@ Los campos son:
 ## GRAFICO 1 - OCUPACION
 
 **Canal de magnitud:**
-- Utilizamos la longitud de las barras como atributo cuantitativo para representar la cantidad de astronautas en cada ocupacion.
+- Utilizamos los puntos para demostrar que ocupacion es más popular entre los países.
 
 **Canal de identidad:**
 - Utilizamos los distintos colores como atributo categorico para diferenciar las distintas ocupaciones.
