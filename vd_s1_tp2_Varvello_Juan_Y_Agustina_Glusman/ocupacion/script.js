@@ -1,8 +1,15 @@
 d3.csv("astronautas.csv", d3.autoType).then((data) => {
+  let ocupacionSeleccionada = "default"; // valor por defecto
+  
+  updateChart();
+
   d3.select("#ocupacion-selector").on("change", () => {
-    let ocupacionSeleccionada = d3.select("#ocupacion-selector").property("value");
+    ocupacionSeleccionada = d3.select("#ocupacion-selector").property("value");
+    updateChart();
+  });
+
+  function updateChart() {
     let dataFiltrada = data;
-    //console.log(ocupacionSeleccionada)
     if (ocupacionSeleccionada !== "default") {
       dataFiltrada = data.filter((d) => d.ocupacion === ocupacionSeleccionada);
     }
@@ -18,5 +25,5 @@ d3.csv("astronautas.csv", d3.autoType).then((data) => {
 
     d3.select("#chart").html("");
     d3.select("#chart").append(() => chart);
-  });
+  }
 });
