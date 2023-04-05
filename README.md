@@ -25,7 +25,8 @@ Los campos son:
 - Utilizamos los distintos colores como atributo categorico para diferenciar las distintas ocupaciones.
 
 **Justificación de diseño:**
-- Con este gráfico de puntos quisimos mostrar como se dispersan las ocupaciones en los distintos paises. Se puede ver claramente las ocupaciones que adoptan las personas de cada país
+- Con este gráfico de puntos quisimos mostrar como se dispersan las ocupaciones en los distintos paises. Se puede ver claramente el area en la que se especializan los astronautas de cada país.
+- También pusimos un selector para poder ver en cada ocupación más claramente la nacionaalidad de cada astronauta.
 
 ## GRAFICO 2 - PAIS
 
